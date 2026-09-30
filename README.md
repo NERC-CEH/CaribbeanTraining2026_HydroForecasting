@@ -21,10 +21,7 @@ Phase II aims to provide participants with a guided, hands-on experience using i
 - Gain practical experience in applying hydrological forecasting methods to support monitoring and decision-making.
 
   ## Running the Notebooks on Google Colab
-  To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the
-  <img src="https://colab.research.google.com/assets/colab-badge.svg"
-alt="Open in Colab"
-height="40">
+  To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button that appears at the top left of each notebook. This will redirect you to Google Colab and you should be able to sign in to your account and run the Notebooks on your own Google Drive. 
 
 This repository includes the following notebooks:
 
