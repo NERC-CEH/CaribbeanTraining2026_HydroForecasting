@@ -5,7 +5,7 @@
   <img width="865" height="112" alt="image" src="assets/logos.png" />
 </p>
 
-Welcome to the GitHub repository for Phase II of the WMO Caribbean Region Instructor-Led Course on Seasonal Hydrological Forecasting.
+Welcome to the GitHub repository for **Phase II of the WMO Caribbean Region Instructor-Led Course on Seasonal Hydrological Forecasting**.
  
 This repository contains the notebooks, scripts, and supporting materials used during Phase II of the online instructor-led course, taking place from 5 to 9 October 2026. The notebooks provide practical exercises covering statistical, dynamical, and HydroSOS-based hydrological forecasting approaches, allowing participants to explore and apply the concepts introduced during Phase I.
  
