@@ -10,7 +10,6 @@ Welcome to the GitHub repository for Phase II of the WMO Caribbean Region Instru
 This repository contains the notebooks, scripts, and supporting materials used during Phase II of the online instructor-led course, taking place from 5 to 9 October 2026. The notebooks provide practical exercises covering statistical, dynamical, and HydroSOS-based hydrological forecasting approaches, allowing participants to explore and apply the concepts introduced during Phase I.
  
 ## Objectives
- 
 **Phase II** aims to provide participants with a guided, hands-on learning experience using interactive notebooks and real-world hydrological forecasting workflows. Participants will work directly with forecasting scripts and datasets to develop practical skills in applying and interpreting hydrological forecasting methods and HydroSOS products.
  
 - Become familiar with the Google Colab platform for running and modifying hydrological forecasting notebooks.
