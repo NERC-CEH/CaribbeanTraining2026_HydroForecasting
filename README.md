@@ -25,10 +25,10 @@ Phase II aims to provide participants with a guided, hands-on learning experienc
 | | Day 1: <br> 05 October 2026 <br> Introduction to Python | Day 2: <br> 07 October 2026 <br> Statistical Methods | Day 3: <br> 08 October 2026 <br> Dynamical Methods | Day 4: <br> 09 October 2026 <br> HydroSOS Methods |
 | --- | --- | --- | --- | --- |
 
-| | 05 October 2026 | 07 October 2026 | 08 October 2026 | 09 October 2026 |
-| --- | --- | --- | --- | --- |
-| **Topic** | Introduction to Python | Statistical Methods | Dynamical Methods | HydroSOS Methods |
-| **Notebooks** | Notebook 1: Introduction to Python | Notebook 2:<br>Historical Analogues<br>Notebook 3: Hydrological Persistence | Notebook 4 | Notebook 5<br>Notebook 6 |
+| 05 October 2026 | 07 October 2026 | 08 October 2026 | 09 October 2026 |
+| --- | --- | --- | --- |
+| **Introduction to Python** | **Statistical Methods** | **Dynamical Methods** | **HydroSOS Methods** |
+| Notebook 1: Introduction to Python | Notebook 2: Historical Analogues <br><br> Notebook 3: Hydrological Persistence | Notebook 4: Ensemble Streamflow Prediction | Notebook 5: Hydrological Status <br><br> Notebook 6: Hydrological Outlooks |
 
   ## Running the Notebooks on Google Colab
   To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button that appears at the top left of each notebook. This will redirect you to Google Colab and you should be able to sign in to your account and run the Notebooks on your own Google Drive.
