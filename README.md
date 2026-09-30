@@ -12,12 +12,12 @@ This repository contains the python notebooks used during Phase II of the online
 ## Objectives
 **Phase II** aims to provide participants with a guided, hands-on learning experience using interactive notebooks and real-world hydrological forecasting workflows. Participants will work directly with forecasting scripts and datasets to develop practical skills in applying and interpreting hydrological forecasting methods and HydroSOS products.
  
-- Become familiar with the Google Colab platform for running and modifying hydrological forecasting notebooks.
+- Become familiar with the Google Colab platform for running and modifying notebooks.
 - Learn the basic Python concepts required to work with the course scripts and workflows.
 - Apply statistical hydrological forecasting methods using interactive notebooks and scripts.
 - Apply dynamical hydrological forecasting methods using interactive notebooks and scripts.
 - Understand and implement the HydroSOS methodology for generating hydrological status and outlook products.
-- Generate and interpret HydroSOS products using real-world datasets.
+- Generate and interpret HydroSOS products.
 - Gain practical experience in applying hydrological forecasting methods to support monitoring and decision-making.
 
 ### Agenda
