@@ -11,7 +11,7 @@ This repository contains the notebooks, scripts, and supporting materials used d
  
 ## Objectives
  
-Phase II aims to provide participants with a guided, hands-on learning experience using interactive notebooks and real-world hydrological forecasting workflows. Participants will work directly with forecasting scripts and datasets to develop practical skills in applying and interpreting hydrological forecasting methods and HydroSOS products.
+**Phase II** aims to provide participants with a guided, hands-on learning experience using interactive notebooks and real-world hydrological forecasting workflows. Participants will work directly with forecasting scripts and datasets to develop practical skills in applying and interpreting hydrological forecasting methods and HydroSOS products.
  
 - Become familiar with the Google Colab platform for running and modifying hydrological forecasting notebooks.
 - Learn the basic Python concepts required to work with the course scripts and workflows.
@@ -28,8 +28,8 @@ Phase II aims to provide participants with a guided, hands-on learning experienc
 | **Introduction to Python** | **Statistical Methods** | **Dynamical Methods** | **HydroSOS Methods** |
 | **Notebook 1:** Introduction to Python | **Notebook 2:** Historical Analogues <br><br> **Notebook 3:** Hydrological Persistence | **Notebook 4:** Ensemble Streamflow Prediction | **Notebook 5:** Hydrological Status <br><br> **Notebook 6:** Hydrological Outlooks |
 
-  ## Running the Notebooks on Google Colab
-  To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button that appears at the top left of each notebook. This will redirect you to Google Colab and you should be able to sign in to your account and run the Notebooks on your own Google Drive.
+## Running the Notebooks on Google Colab
+To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button button located at the top left of the notebook. This will open the notebook in Google Colab, allowing you to run the exercises directly in your browser.
 
   > **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
 
@@ -37,12 +37,3 @@ Phase II aims to provide participants with a guided, hands-on learning experienc
 - You are now working on your own copy of the notebook, which you can rename if you choose.
 - You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 - The copied notebook will be saved in your Google Drive and can be accessed anytime.
-
-This repository includes the following notebooks:
-
-Notebook 1: Introduction to Python
-Notebook 2: Statistical Methods for Hydrological Forecasting: Historical Analogues
-Notebook 3: Statistical Methods for Hydrological Forecasting: Hydrological Persistence
-Notebook 4: Dynamical Methods for Hydrological Forecasting: Ensemble Streamflow Predicition
-Notebook 5: HydroSOS Methods: Hydrological Status
-Notebook 6: HydroSOS Methods: Hydrological Outlooks
