@@ -28,7 +28,7 @@ This repository contains the notebooks, scripts, and supporting materials used d
 | **Notebook 1:** Introduction to Python | **Notebook 2:** Historical Analogues <br><br> **Notebook 3:** Hydrological Persistence | **Notebook 4:** Ensemble Streamflow Prediction | **Notebook 5:** Hydrological Status <br><br> **Notebook 6:** Hydrological Outlooks |
 
 ## Running the Notebooks on Google Colab
-To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button button located at the top left of the notebook. This will open the notebook in Google Colab, allowing you to run the exercises directly in your browser.
+To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button located at the top left of the notebook. This will open the notebook in Google Colab, allowing you to run the exercises directly in your browser.
 
   > **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
 
