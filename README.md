@@ -21,18 +21,9 @@ Phase II aims to provide participants with a guided, hands-on experience using i
 - Gain practical experience in applying hydrological forecasting methods to support monitoring and decision-making.
 
   ### Agenda
-  | | Day 1:  <br> 05 October 2026 <br> Introduction to Python | Day 2: <br> 07 October 2026 <br> Statistical Methods | Day 3: <br> 08 October 2026 <br> Dynamical Methods | Day 4: <br> 09 October 2026 <br> HydroSOS Methods |
-| --- | --- | --- | --- |
-| 08:30 - 09:00 | **REGISTRATION** | --- | --- |
-| 09:00 - 10:00 | Welcome & Introductions | **Talk:** Reservoir modelling <br> **Talk:** Introduction to Machine Learning (ML)   | **Talk:** Introduction to forecast methods & applications |
-| 10:00 - 11:00 | **Hands-on:** Computing setup and testing | **Workshop:** ML reservoir modelling | **Workshop:** Running a hydrological model |
-| 11:00 - 11:30 | **BREAK** | **BREAK** | **BREAK** |
-| 11:30 - 13:00 | **Workshop:** Remote data access | **Workshop:** ML reservoir modelling | **Workshop:** Running Ensemble Streamflow Prediction (ESP) |
-| 13:00 - 14:00 | **LUNCH** | **LUNCH** | **LUNCH** |
-| 14:00 - 15:30 | **Workshop:** Data analysis and visualisation | **Talk:** the benefits of a multi-reservoir ML model <br> **Workshop:** ML reservoir modelling | **Talk:** WMO HydroSOS <br> **Workshop:** Categorising a forecast product for enhanced decision making |
-| 15:30 - 16:00 | **BREAK** | **BREAK** | **BREAK** |
-| 16:00 - 17:00 | Q/A and wrap-up | Group discussion on workshop outcomes <br> Q/A and wrap-up | Q/A, wrap-up and close |
-| 18:00 - 21:00 | --- | **GROUP DINNER** | --- |
+| | Day 1: <br> 05 October 2026 <br> Introduction to Python | Day 2: <br> 07 October 2026 <br> Statistical Methods | Day 3: <br> 08 October 2026 <br> Dynamical Methods | Day 4: <br> 09 October 2026 <br> HydroSOS Methods |
+| --- | --- | --- | --- | --- |
+
 
   ## Running the Notebooks on Google Colab
   To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button that appears at the top left of each notebook. This will redirect you to Google Colab and you should be able to sign in to your account and run the Notebooks on your own Google Drive.
