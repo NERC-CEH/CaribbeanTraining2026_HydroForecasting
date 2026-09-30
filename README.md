@@ -3,5 +3,5 @@
 Welcome to the GitHub repository for Phase II of the WMO Caribbean Region Instructor-Led Course on Seasonal Hydrological Forecasting.
 
 <p align="center">
-  <img width="865" height="112" alt="image" src="https://github.com/eugmag/ghana_training_2026/blob/main/content/workshop_logo.png" />
+  <img width="865" height="112" alt="image" src="assets/UKCEH_r_Black.png" />
 </p>
