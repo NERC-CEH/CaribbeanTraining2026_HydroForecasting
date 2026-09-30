@@ -1,4 +1,5 @@
-# Caribbean Training
-**WMO Seasonal Hydrological Forecasting Caribbean Training 2026**
+# World Meteorological Organization (WMO) course on Hydrological Seasonal Forecasting 2026
 
-This is the GitHub repository containing the notebooks for Phase II of the Instructor-Led Course on HydroSOS Seasonal Hydrological Forecasting.
+Welcome to the GitHub repository for Phase II of the WMO Caribbean Region Instructor-Led Course on Seasonal Hydrological Forecasting.
+
+
