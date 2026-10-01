@@ -39,4 +39,4 @@ To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click
 
 ## Acknowledgements
 
-The notebooks contained in this repository are adapted from materials developed by Vinicius Siqueira for the 2025 WMO Region III (South America) Hydrological Seasonal Forecasting Course.
+The notebooks contained in this repository are adapted from materials developed by **Vinicius Siqueira** for the 2025 WMO Region III (South America) Hydrological Seasonal Forecasting Course.
