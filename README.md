@@ -36,3 +36,7 @@ To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click
 - You are now working on your own copy of the notebook, which you can rename if you choose.
 - You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 - The copied notebook will be saved in your Google Drive and can be accessed anytime.
+
+## Acknowledgements
+
+The notebooks contained in this repository are adapted from materials developed by Vinicius Siqueira for the 2025 WMO Region III (South America) Hydrological Seasonal Forecasting Course.
