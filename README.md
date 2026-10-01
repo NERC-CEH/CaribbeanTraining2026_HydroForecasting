@@ -30,6 +30,8 @@ This repository contains the python notebooks used during Phase II of the online
 ## Running the Notebooks on Google Colab
 To run the Notebooks using *Google Colab*, open the Notebook on GitHub and click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"> button located at the top left of the notebook. This will open the notebook in Google Colab, allowing you to run the exercises directly in your browser.
 
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+
   > **Important:** Before you start editing, make sure to **Save a copy to your own Google Drive**.
 
 - Go to **File > Save a copy in Drive**. This will open a new tab with the title `Copy of <Notebook Name>`.
